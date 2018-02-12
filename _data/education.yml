@@ -1,14 +1,10 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards:
-    - award: Quickest to fall asleep
-    - award: Fastest donut eater
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bachelor of Technology
+  uni: King Mongkut's University of Technology North Bangkok
+  year: 2010 &mdash; 2014
+  summary: Information Technology
 
-- degree: High School Diploma
-  uni: Springfield High
-  year: 1984
-  award: Least likely to graduate College
-  summary: You can choose to have either a single or multiple awards
+- degree: High School
+  uni: Rittiyawannalai School
+  year: 2007 &mdash; 2010
+  summary: Math - English
