@@ -2,7 +2,7 @@
 - company: Softbaked Co., Ltd.
   position: Full-Stack Developer
   duration: Sep, 2015 &mdash; Present
-  summary: Develop Page365 application, Written by Ruby on Rails, AngularJS, SASS and Coffeescript. Using Docker on development and AWS on production environment, managed by Kubernete.
+  summary: Develop Page365 application, Written by Ruby on Rails, AngularJS, SASS and Coffeescript. Using Docker on development and AWS on production environment, managed by Rancher.
 
 - company: Almacom (Thailand) Ltd.
   position: IT Developer
