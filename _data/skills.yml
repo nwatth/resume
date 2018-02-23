@@ -1,9 +1,9 @@
 # Skills
 - skill: Programming Languages
-  description: Ruby, PHP, Python, Javascript, SASS
+  description: Ruby, PHP, Python, Javascript, CSS
 
 - skill: Frameworks
-  description: Ruby on Rails, Laravel, Flask, Etc.
+  description: Ruby on Rails, Sinatra, Laravel, Lumen, Slim, Flask
 
 - skill: Tools
   description: Docker, Vim, Unix, Git
