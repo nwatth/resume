@@ -1,7 +1,12 @@
 # Jobs
+- company: Tourkrub Co., Ltd.
+  position: Senior Software Developer
+  duration: May, 2018 &mdash; Mar, 2020
+  summary: Lead team to build ARP application for support account and sale team, Build Microservices with team e.g. NotiCen, MIM, TukTuk, Affiliate, Rewarder, Census and MonoRail, Launch on Heroku and shared credential by AWS Secret Manager, Support some part of DevOps (using AWS) for seamless development process.
+
 - company: Softbaked Co., Ltd.
   position: Full-Stack Developer
-  duration: Sep, 2015 &mdash; Present
+  duration: Sep, 2015 &mdash; May, 2018
   summary: Develop Page365 application, Written by Ruby on Rails, AngularJS, SASS and Coffeescript. Using Docker on development and AWS on production environment, managed by Rancher.
 
 - company: Almacom (Thailand) Ltd.
