@@ -1,10 +1,10 @@
 # Skills
-- skill: Programming Languages
-  description: Ruby, PHP, Python, Javascript, CSS
+- skill: Coding
+  description: Ruby on Rails, Laravel, Flask, Node.js, Vue.js
 
-- skill: Frameworks
-  description: Ruby on Rails, Sinatra, Laravel, Lumen, Slim, Flask
+- skill: DevOps
+  description: Amazon EC2, Amazon ECS, AWS Lambda, Amazon API Gateway, Amazon CloudWatch, Amazon Simple Notification Service, Docker and Etc.
 
-- skill: Tools
-  description: Docker, Vim, Unix, Git
+- skill: Soft Skills
+  description: Problem solving, Teamwork, Open-mindedness, Approachability and Helpfulness
 
