@@ -1,8 +1,13 @@
 # Jobs
+- company: Primo World Co., Ltd.
+  position: Software Development Menager
+  duration: April, 2020 &mdash; June, 2020
+  summary: Lead team to build membership system for enterprise customer with easiest maintenance in the future, Written by NestJS as a microservices.
+
 - company: Tourkrub Co., Ltd.
   position: Senior Software Developer
   duration: May, 2018 &mdash; Mar, 2020
-  summary: Lead team to build tools for support account and sale team, Lead and coach team to build microservices e.g. Online payment, Referral program and Affiliate program, launch on Heroku and AWS, Support some part of DevOps (using AWS) for seamless development process.
+  summary: Lead and coach team to build microservices e.g. online payment, referral program, mobile push notification and affiliate program, launch on Heroku and AWS, Support some part of DevOps (using AWS) for seamless development process.
 
 - company: Softbaked Co., Ltd.
   position: Full-Stack Developer
@@ -10,12 +15,12 @@
   summary: Develop Page365 application, Written by Ruby on Rails, AngularJS, SASS and Coffeescript. Using Docker on development and AWS on production environment, managed by Rancher.
 
 - company: Almacom (Thailand) Ltd.
-  position: IT Developer
+  position: Software Developer
   duration: May, 2014 &mdash; Sep, 2015
   summary: Code with OpenERP and Netforce. Written by Python.
 
 - company: Airport of Thailand Public Co., Ltd.
   position: Trainee
   duration: Mar, 2013 &mdash; May, 2013
-  summary: Build IT Support Notify application for help helpdesk team. Written by PHP and design structured by Bootstrap.
+  summary: Build IT Support Notifier application for help Helpdesk team. Written by PHP and designed as Bootstrap.
 

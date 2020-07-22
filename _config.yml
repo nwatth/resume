@@ -1,6 +1,6 @@
 # Site settings
 title: "Nantiwat Thongseng"
-description: "Full-Stack Developer"
+description: "My name is Nantiwat Thongseng and I am a full-stack developer. I value experience, each project has helped me grow as a developer and as a leader. I seek to be a part of the development team where we can share abilities, strength and personal perspectives."
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Nantiwat Thongseng"
-resume_title:                   "Full-Stack Developer"
+resume_title:                   "Solved problems with coding"
 resume_contact_email:           "nwatth@gmail.com"
 resume_contact_telephone:       "+668 5141 1852"
 resume_contact_address:         "44 Deja-tungka 4 Rd., Sikan, Don Mueang, Bangkok 10210"
@@ -41,7 +41,7 @@ resume_social_links:
   resume_github_url:            "https://github.com/nwatth"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
-  resume_facebook_url:          "https://facebook.com/nwatth"
+  # resume_facebook_url:          "https://facebook.com/nwatth"
   # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://nwatth.me"
