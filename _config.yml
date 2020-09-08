@@ -15,8 +15,8 @@ resume_title:                   "Solved problems with coding"
 resume_contact_email:           "nwatth@gmail.com"
 resume_contact_telephone:       "+668 5141 1852"
 resume_contact_address:         "44 Deja-tungka 4 Rd., Sikan, Don Mueang, Bangkok 10210"
-resume_header_contact_info:     "44 Deja-tungka 4 Rd., Sikan, Don Mueang, Bangkok 10210 | +668 5141 1852 | nwatth@gmail.com"
-resume_header_intro:            "<p>My name is Nantiwat Thongseng and I am a full-stack developer. I value experience, each project has helped me grow as a developer and as a leader. I seek to be a part of the development team where we can share abilities, strength and personal perspectives.</p>"
+resume_header_contact_info:     "https://nwatth.me | +668 5141 1852 | nwatth@gmail.com"
+resume_header_intro:            "<p>Hi, I am a full-stack developer. I value experience, each project has helped me grow as a developer and as a leader. I seek to be a part of the development team where we can share abilities, strength and personal perspectives.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -44,7 +44,7 @@ resume_social_links:
   # resume_facebook_url:          "https://facebook.com/nwatth"
   # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://nwatth.me"
+  # resume_website_url:           "http://nwatth.me"
 resume_print_social_links:      true
 
 # Design settings

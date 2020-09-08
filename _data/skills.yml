@@ -1,6 +1,6 @@
 # Skills
 - skill: Coding
-  description: Ruby on Rails, Laravel, Flask, Node.js, Vue.js
+  description: Ruby on Rails, Laravel, Flask, Node.js, Vue.js, NestJS
 
 - skill: DevOps
   description: Amazon EC2, Amazon ECS, AWS Lambda, Amazon API Gateway, Amazon CloudWatch, Amazon Simple Notification Service, Docker and Etc.
