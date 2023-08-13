@@ -1,12 +1,17 @@
 # Jobs
+- company: TQM Insurance Broker Co., Ltd.
+  position: Software Developer
+  duration: Mar, 2022 &mdash; Aug, 2023
+  summary: Revamp and make a better online purchase flow, launch on GCP, Written by React and NextJs.
+
 - company: F.F.K GROUP Co., Ltd.
   position: Cheif Technology Officer
-  duration: Jan, 2021 &mdash; Present
+  duration: Jan, 2021 &mdash; Jun, 2022
   summary: Lead team to build Fahfahsworld website, Written by React and Ruby on Rails.
 
 - company: SCB Securities Co., Ltd.
   position: Assistant Vice President
-  duration: Jan, 2021 &mdash; Present
+  duration: Jan, 2021 &mdash; Feb, 2022
   summary: Develop EasyInvest application, Written by React Native.
 
 - company: A.S.C. Group Co., Ltd.
@@ -38,4 +43,3 @@
   position: Trainee
   duration: Mar, 2013 &mdash; May, 2013
   summary: Build IT Support Notifier application for help Helpdesk team. Written by PHP and designed as Bootstrap.
-
